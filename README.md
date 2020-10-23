@@ -1,4 +1,4 @@
-### Hello, I'm Rithik Bhandari 👋
+# Hello, I'm Rithik Bhandari 👋
 
 <br/>
 
