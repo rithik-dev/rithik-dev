@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on Flutter
 - 🌱 I’m currently learning Flutter
-- 📫 How to reach me: [Mail](mailto:rithikbhandari895@gmail.com)  |  [LinkedIn](https://www.linkedin.com/in/rithik-bhandari/)  |  [GitHub](https://github.com/rithik-dev)
+- 📫 How to reach me: [Mail](mailto:rithikbhandari895@gmail.com)  |  [LinkedIn](https://www.linkedin.com/in/rithik-bhandari/)  |  [GitHub](https://github.com/rithik-dev)  |  [Instagram](https://www.instagram.com/rithik.895)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I don't have a life
 
